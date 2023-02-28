@@ -118,6 +118,14 @@ body > main > div.principal > div:nth-child(5) > p:nth-child(2){
     font-size: 12px;
 }
 
+div.formulario > form > ul > li{
+    list-style: none;
+}
+
+div.formulario > form > ul > li > label > p{
+    display: inline;
+}
+
 .formulario button {
     background-color: #1a1a1a;
     color: white;
